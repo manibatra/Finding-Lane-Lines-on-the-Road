@@ -1,5 +1,5 @@
 # **Finding Lane Lines on the Road** 
-![Project 1](https://img.shields.io/badge/Computer%20Vision%20Fundamentals-Finding%20Lane%20Lines%20on%20the%20Road-blue.svg?longCache=true&style=for-the-badge)
+![Project 1](https://img.shields.io/badge/Computer%20Vision%20Fundamentals-Ongoing-blue.svg?longCache=true&style=for-the-badge)
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 

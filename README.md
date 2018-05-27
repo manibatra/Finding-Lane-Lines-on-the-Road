@@ -21,7 +21,7 @@ The goals  of this project are the following:
 
 #### The image processing pipeline consisted of four steps
 1. All the colours except **white** and **yellow** were removed from the image. 
-![image1 =500x900]
+![image1]
 
 2. The masked image was converted to grayscale
 ![image2]

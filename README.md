@@ -32,6 +32,9 @@ The goals  of this project are the following:
 4. **Hough Line Transform** was applied to the image in the selected region of interest and lines were drawn on the  original image .
 ![image4]
 
+
+![final output](https://media.giphy.com/media/7zy01fZ1XLbdxCostX/giphy.gif)
+
 #### Some potential shortcoming with the pipeline
 - The region of interest is static at the moment and is being hard coded. This can lead to potential issues in the real world.
 - The lines drawn are somewhat jittery. This can be improved by using **np.polyfit** instead of manually averaging the lines. 

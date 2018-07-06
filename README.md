@@ -1,14 +1,13 @@
 # **Finding Lane Lines on the Road**
 
-![Project 1](https://img.shields.io/badge/Computer%20Vision%20Fundamentals-Finished-green.svg?longCache=true&style=for-the-badge)
 
----
 
 The goals  of this project are the following:
 
 * Make a pipeline that finds lane lines on the road
 
 ---
+
 [//]: # (Image References)
 
 [image0]: ./test_images/solidWhiteCurve.jpg
